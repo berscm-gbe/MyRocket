@@ -1,0 +1,5 @@
+G:\Projects\MySFProject\MySFProject\obj\Debug\MySFProject.csprojResolveAssemblyReference.cache
+G:\Projects\MySFProject\MySFProject\bin\Debug\MySFProject.dll
+G:\Projects\MySFProject\MySFProject\bin\Debug\MySFProject.pdb
+G:\Projects\MySFProject\MySFProject\obj\Debug\MySFProject.dll
+G:\Projects\MySFProject\MySFProject\obj\Debug\MySFProject.pdb
