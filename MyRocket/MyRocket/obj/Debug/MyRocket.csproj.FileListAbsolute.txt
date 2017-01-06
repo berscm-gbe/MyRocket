@@ -1,0 +1,5 @@
+G:\Projects\Test\MyRocket\MyRocket\bin\Debug\MySFProject.dll
+G:\Projects\Test\MyRocket\MyRocket\bin\Debug\MySFProject.pdb
+G:\Projects\Test\MyRocket\MyRocket\obj\Debug\MyRocket.csprojResolveAssemblyReference.cache
+G:\Projects\Test\MyRocket\MyRocket\obj\Debug\MySFProject.dll
+G:\Projects\Test\MyRocket\MyRocket\obj\Debug\MySFProject.pdb
