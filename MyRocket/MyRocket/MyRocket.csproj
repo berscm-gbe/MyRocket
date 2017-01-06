@@ -7,8 +7,8 @@
     <ProjectGuid>{674838E6-101D-4330-9775-831D679D21CB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MySFProject</RootNamespace>
-    <AssemblyName>MySFProject</AssemblyName>
+    <RootNamespace>MyRocket</RootNamespace>
+    <AssemblyName>MyRocket</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
