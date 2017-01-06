@@ -3,3 +3,8 @@ G:\Projects\Test\MyRocket\MyRocket\bin\Debug\MySFProject.pdb
 G:\Projects\Test\MyRocket\MyRocket\obj\Debug\MyRocket.csprojResolveAssemblyReference.cache
 G:\Projects\Test\MyRocket\MyRocket\obj\Debug\MySFProject.dll
 G:\Projects\Test\MyRocket\MyRocket\obj\Debug\MySFProject.pdb
+D:\Projects\GiHub\MyRocket\MyRocket\MyRocket\obj\Debug\MyRocket.csprojResolveAssemblyReference.cache
+D:\Projects\GiHub\MyRocket\MyRocket\MyRocket\bin\Debug\MyRocket.dll
+D:\Projects\GiHub\MyRocket\MyRocket\MyRocket\bin\Debug\MyRocket.pdb
+D:\Projects\GiHub\MyRocket\MyRocket\MyRocket\obj\Debug\MyRocket.dll
+D:\Projects\GiHub\MyRocket\MyRocket\MyRocket\obj\Debug\MyRocket.pdb
